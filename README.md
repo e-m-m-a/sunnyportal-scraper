@@ -1,5 +1,5 @@
 # sunnyportal-scraper
-Quick and dirty sunnyportal webscraper
+Quick and dirty sunnyportal webscraper in php.
 
 You'll need this library
 http://simplehtmldom.sourceforge.net/
